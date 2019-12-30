@@ -25,11 +25,11 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - [install: cordova](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/8)
 
-- [exercise 1: A basic Ionic4 "hello world" starter PWA (no IDE required)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/7)
+- **[exercise 1: A basic Ionic4 "hello world" starter PWA (no IDE required)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/7)**
 
 - [understand: The Ionic CLI-driven "start... serve" cycle](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/10)
 
-- [exercise 2: simple button event processing w/ deployment onto Ionic Lab View Server](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/13)
+- **[exercise 2: simple button event processing w/ deployment onto Ionic Lab View Server](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/13)**
 
 - [install: Android Studio (and various Java-related dependencies)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/14)
 
@@ -39,7 +39,7 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - [resolve: Ionic Android Build Errors](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/17)
 
-- [exercise 3: Build & deploy simple button event processing app onto Android device](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/18)
+- **[exercise 3: Build & deploy simple button event processing app onto Android device](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/18)**
 
 
 There are a few other "farther horizon" issues (important, but not strictly required) recorded as well:
