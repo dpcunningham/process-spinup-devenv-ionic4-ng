@@ -9,7 +9,7 @@ The process to ferret out these development cycle gotchas was extremely time con
 
 This guide should facilitate any developer with reasaonable level of Unix/Linux erperience to get up to speed on developing Ionic apps for Android devices without wasting enourmous amounts of valuable time.  
 
-This guide presents every action-item in the "mental pipeline" as a GH issue, viz:
+This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - [survey: WTF is Ionic?](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/1)
 
