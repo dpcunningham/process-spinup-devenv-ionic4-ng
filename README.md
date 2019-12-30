@@ -11,45 +11,48 @@ This guide should facilitate any developer with reasaonable level of Unix/Linux 
 
 This guide presents every action-item in the "mental pipeline" as a GH issue, viz:
 
-- survey: WTF is Ionic?
+- [survey: WTF is Ionic?](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/1)
 
-- explain: WTF use Ionic?
+- [explain: WTF use Ionic?](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/2)
 
-- understand: Background/History of Ionic
+- [understand: Background/History of Ionic](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/3)
 
-- watch (~14m): Introductory Ionic Video
+- [watch (~14m): Introductory Ionic Video](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/5)
 
-- install: Node.js, npm, and ionic
+- [install: Node.js, npm, and ionic](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/4)
 
-- upgrade: Node.js (and npm) to their latest versions
+- [upgrade: Node.js (and npm) to their latest versions](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/6)
 
-- install: cordova
+- [install: cordova](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/8)
 
-- exercise 1: A basic Ionic4 "hello world" starter PWA (no IDE required)
+- [exercise 1: A basic Ionic4 "hello world" starter PWA (no IDE required)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/7)
 
-- understand: The Ionic CLI-driven "start... serve" cycle
+- [understand: The Ionic CLI-driven "start... serve" cycle](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/10)
 
-- exercise 2: simple button event processing w/ deployment onto Ionic Lab View Server
+- [exercise 2: simple button event processing w/ deployment onto Ionic Lab View Server](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/13)
 
-- install: Android Studio (and various Java-related dependencies)
+- [install: Android Studio (and various Java-related dependencies)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/14)
 
-- install: Oracle JDK V8 (required for Android Studio builds)
+- [install: Oracle JDK V8 (required for Android Studio builds)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/15)
 
-- install: Gradle CI/CD pipeline tools (required for Ionic Android Studio builds)
+- [install: Gradle CI/CD pipeline tools (required for Ionic Android Studio builds)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/16)
 
-- resolve: Ionic Android Build Errors
+- [resolve: Ionic Android Build Errors](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/17)
 
-- exercise 3: Build & deploy simple button event processing app onto Android devic
+- [exercise 3: Build & deploy simple button event processing app onto Android device](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/18)
 
 
 There are a few other "farther horizon" issues (important, but not strictly required) recorded as well:
 
 
-- install/configure: git & GitHub in coordination w/ Ionic workflows
+- [install/configure: git & GitHub in coordination w/ Ionic workflows](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/12)
 
-- review: Apache Cordova (underlying framework for hybrid mobile apps)
+- [review: Apache Cordova (underlying framework for hybrid mobile apps)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/11)
 
-- survey: Quick Testing using Ionic Framework CDN
+- [survey: Quick Testing using Ionic Framework CDN](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/9)
 
-- install: cordova (needs review/modification, b/c my install was rather janky)
+- [install: cordova (needs review/modification, b/c my install was rather janky)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/8)
+
+- [Question: Does installing multiple SDKs cause multiple build targets/results?](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/17#issuecomment-569389790)
+
 
