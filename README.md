@@ -7,7 +7,7 @@ The intro docs & tutorials (such as: [Get started with Ionic](https://ionicframe
 
 The process to ferret out these development cycle gotchas was extremely time consuming.  I don't like wasting the time of my development teams.  And I don't think that _"learning to take your lumps as a developer"_ is constructive either.  So I decided to collect all the "run off the runway into the weeds" stuff into one (hopefully useful) reference.  
 
-This guide should enable any developer with reasaonable level of Unix/Linux erperience to get up to speed on developing Ionic apps for Android devices without wasting enourmous amounts of valuable time.  
+This guide should enable any developer with reasaonable level of Unix/Linux experience to get up to speed on developing Ionic apps for Android devices without wasting enourmous amounts of valuable time.  
 
 This guide presents every action-item in the "mental pipeline" as a GH issue:
 
