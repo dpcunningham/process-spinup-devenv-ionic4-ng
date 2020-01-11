@@ -43,6 +43,9 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - **[exercise 4: Build the benchmark "Photo Gallery" app & deploy using DevApp & Ionic account](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/19)**
 
+- [survey: Configure (non DevApp) deployments on iOS and Android](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/22)
+
+- [survey: Ionic Community Resources](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/23)
 
 There are a few other "farther horizon" issues (important, but not strictly required) recorded as well:
 
