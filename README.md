@@ -47,6 +47,10 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - [survey: Ionic Community Resources](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/23)
 
+- [survey: Ionic AppFlow (build/deploy/devops cloud services)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/24)
+
+- [understand: Routing/Navigation & Lifecycle Hooks in underlying Angular MVC framework](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/25)
+
 There are a few other "farther horizon" issues (important, but not strictly required) recorded as well:
 
 
