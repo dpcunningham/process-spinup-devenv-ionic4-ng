@@ -45,7 +45,7 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - **[exercise 5: Build an app w/ "pretty" controls (Gary Simon's exercise interval timer)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/26)**
 
-To-Dos:
+To-Dos Include:
 
 - [survey: Configure (non DevApp) deployments on iOS and Android](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/22)
 
