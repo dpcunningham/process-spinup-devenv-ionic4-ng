@@ -43,6 +43,10 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 
 - **[exercise 4: Build the benchmark "Photo Gallery" app & deploy using DevApp & Ionic account](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/19)**
 
+- **[exercise 5: Build an app w/ "pretty" controls (Gary Simon's exercise interval timer)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/26)**
+
+To-Dos:
+
 - [survey: Configure (non DevApp) deployments on iOS and Android](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/22)
 
 - [survey: Ionic Community Resources](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/23)
@@ -50,6 +54,7 @@ This guide presents every action-item in the "mental pipeline" as a GH issue:
 - [survey: Ionic AppFlow (build/deploy/devops cloud services)](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/24)
 
 - [understand: Routing/Navigation & Lifecycle Hooks in underlying Angular MVC framework](https://github.com/dpcunningham/process-spinup-devenv-ionic4-ng-on-linux/issues/25)
+
 
 There are a few other "farther horizon" issues (important, but not strictly required) recorded as well:
 
